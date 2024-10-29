@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heito\\OneDrive\\Desktop\\curso\\c sharp\\projetos\\problema _aula.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69541E4B-A7A1-47C9-982F-B46EA3DE905E}|problema _aula.cs\\problema _aula.cs.csproj|c:\\users\\heito\\onedrive\\desktop\\curso\\c sharp\\projetos\\problema _aula.cs\\problema _aula.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69541E4B-A7A1-47C9-982F-B46EA3DE905E}|problema _aula.cs\\problema _aula.cs.csproj|solutionrelative:problema _aula.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\heito\\OneDrive\\Desktop\\curso\\c sharp\\projetos\\problema _aula.cs\\problema _aula.cs\\Program.cs",
+              "RelativeDocumentMoniker": "problema _aula.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\heito\\OneDrive\\Desktop\\curso\\c sharp\\projetos\\problema _aula.cs\\problema _aula.cs\\Program.cs",
+              "RelativeToolTip": "problema _aula.cs\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwOMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:55:10.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

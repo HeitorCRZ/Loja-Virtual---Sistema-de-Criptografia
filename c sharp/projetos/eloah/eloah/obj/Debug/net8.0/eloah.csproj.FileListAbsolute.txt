@@ -1,0 +1,14 @@
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\obj\Debug\net8.0\eloah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\obj\Debug\net8.0\eloah.AssemblyInfoInputs.cache
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\obj\Debug\net8.0\eloah.AssemblyInfo.cs
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\obj\Debug\net8.0\eloah.csproj.CoreCompileInputs.cache
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\bin\Debug\net8.0\eloah.exe
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\bin\Debug\net8.0\eloah.deps.json
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\bin\Debug\net8.0\eloah.runtimeconfig.json
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\bin\Debug\net8.0\eloah.dll
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\bin\Debug\net8.0\eloah.pdb
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\obj\Debug\net8.0\eloah.dll
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\obj\Debug\net8.0\refint\eloah.dll
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\obj\Debug\net8.0\eloah.pdb
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\obj\Debug\net8.0\eloah.genruntimeconfig.cache
+C:\Users\heito\OneDrive\Desktop\curso\c sharp\projetos\eloah\eloah\obj\Debug\net8.0\ref\eloah.dll

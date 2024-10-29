@@ -1,0 +1,2 @@
+1 - binario(x) ---- Tem como função converter um numero decimal para binario
+2 - primo(x) ------ Tem como função verificar se um numero é primo  
