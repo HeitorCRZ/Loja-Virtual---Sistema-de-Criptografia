@@ -3,6 +3,9 @@ from tkinter import messagebox
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
 # teste
+#git add .
+#git commit -m "Atualização automática"
+#git push origin master
 # Conexão com o MongoDB
 def connect_to_mongo():
     try:
