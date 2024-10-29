@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
-
+# teste
 # Conexão com o MongoDB
 def connect_to_mongo():
     try:
